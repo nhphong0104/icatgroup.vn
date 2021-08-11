@@ -245,64 +245,34 @@
             </div>
             <div class="section-content">
                 <div class="row">
-                    <div class="col-xs-12 col-sm-6 col-md-3 hvr-float-shadow mb-sm-30">
-                        <div class="pricing-table text-center pb-0 mt-sm-0 maxwidth400 bg-lighter">
-                            <h4 class="mt-0 mb-0 pt-20 pb-20 text-uppercase bg-theme-colored text-white">Gói cơ bản</h4>
-                            <h2 class="price-num bg-theme-colored-transparent-1 pt-30 pb-30 mt-0 mb-0">65$</h2>
-                            <ul class="table-list theme-colored mt-10">
-                                <li>Gói tín hiệu 1 tháng</li>
-                                <li>Cam kết 1000pip/tháng</li>
-                                <li>Nhỏ hơn 600pip hoàn tiền 100%</li>
-                                <li>5-8 tín hiệu/ngày</li>
-                                <li>Tư vấn trực tiếp khi vào lệnh</li>
-                                <li>Admin thông báo trước khi vào lệnh</li>
-                            </ul>
-                            <a class="btn btn-lg text-white text-uppercase btn-theme-colored2 btn-block pt-20 pb-20 btn-flat" rel="nofollow" href="https://icatsignal.com/">Đăng ký</a>
+                    <div class="col-md-4">
+                        <div class="icon-box text-center">
+                            <a href="#" class="icon icon-gray icon-bordered bg-hover-theme-colored icon-circled icon-xl">
+                                <i class="fa fa-cubes text-theme-colored font-48"></i>
+                            </a>
+                            <h4 class="icon-box-title text-uppercase"><a class="" href="#">Gói tín hiệu</a></h4>
+                            <p class="">Tín hiệu được các chuyên gia nhiều năm kinh nghiệm giao dịch ngoại hối và chứng khoán cung cấp hàng ngày với độ chính xác lên đến ≥ 70%.</p>
+                            <a class="btn btn-dark btn-default btn-theme-colored2 btn-sm mt-10" href="#">Read More</a>
                         </div>
                     </div>
-                    <div class="col-xs-12 col-sm-6 col-md-3 hvr-float-shadow mb-sm-30">
-                        <div class="pricing-table text-center pb-0 mt-sm-0 maxwidth400 bg-lighter">
-                            <h4 class="mt-0 mb-0 pt-20 pb-20 text-uppercase bg-theme-colored2 text-white">Gói tiết kiệm</h4>
-                            <h2 class="price-num bg-theme-colored-transparent-1 pt-30 pb-30 mt-0 mb-0">160$</h2>
-                            <ul class="table-list theme-colored mt-10">
-                                <li>Gói tín hiệu 3 tháng</li>
-                                <li>Cam kết 1000pip/tháng</li>
-                                <li>Nhỏ hơn 600pip hoàn tiền 100%</li>
-                                <li>5-8 tín hiệu/ngày</li>
-                                <li>Tư vấn trực tiếp khi vào lệnh</li>
-                                <li>Admin thông báo trước khi vào lệnh</li>
-                            </ul>
-                            <a class="btn btn-lg text-white text-uppercase btn-theme-colored btn-block pt-20 pb-20 btn-flat" rel="nofollow" href="https://icatsignal.com/">Đăng ký</a>
+                    <div class="col-md-4">
+                        <div class="icon-box text-center">
+                            <a href="#" class="icon icon-gray icon-bordered bg-hover-theme-colored2 icon-circled icon-xl">
+                                <i class="fa fa-line-chart text-theme-colored2 font-48"></i>
+                            </a>
+                            <h4 class="icon-box-title text-uppercase"><a class="" href="#">Zoom thực chiến</a></h4>
+                            <p class=""> Các buổi Live - Zoom trade live thực chiến thứ 4 – thứ 6 hàng tuần kiếm lợi nhuận trực tiếp do các chuyên gia IC&T GROUP tổ chức.</p>
+                            <a class="btn btn-dark btn-default btn-theme-colored btn-sm mt-10" href="#">Read More</a>
                         </div>
                     </div>
-                    <div class="col-xs-12 col-sm-6 col-md-3 hvr-float-shadow mb-sm-30">
-                        <div class="pricing-table text-center pb-0 mt-sm-0 maxwidth400 bg-lighter">
-                            <h4 class="mt-0 mb-0 pt-20 pb-20 text-uppercase bg-theme-colored text-white">Gói ưu đãi</h4>
-                            <h2 class="price-num bg-theme-colored-transparent-1 pt-30 pb-30 mt-0 mb-0">300$</h2>
-                            <ul class="table-list theme-colored mt-10">
-                                <li>Gói tín hiệu 6 tháng + 1 tháng</li>
-                                <li>Cam kết 1000pip/tháng</li>
-                                <li>Nhỏ hơn 600pip hoàn tiền 100%</li>
-                                <li>5-8 tín hiệu/ngày</li>
-                                <li>Tư vấn trực tiếp khi vào lệnh</li>
-                                <li>Admin thông báo trước khi vào lệnh</li>
-                            </ul>
-                            <a class="btn btn-lg text-white text-uppercase btn-theme-colored2 btn-block pt-20 pb-20 btn-flat" rel="nofollow" href="https://icatsignal.com/">Đăng ký</a>
-                        </div>
-                    </div>
-                    <div class="col-xs-12 col-sm-6 col-md-3 hvr-float-shadow mb-sm-30">
-                        <div class="pricing-table text-center pb-0 mt-sm-0 maxwidth400 bg-lighter">
-                            <h4 class="mt-0 mb-0 pt-20 pb-20 text-uppercase bg-theme-colored2 text-white">Gói siêu khủng</h4>
-                            <h2 class="price-num bg-theme-colored-transparent-1 pt-30 pb-30 mt-0 mb-0">1000$</h2>
-                            <ul class="table-list theme-colored mt-10">
-                                <li>Gói tín hiệu vĩnh viễn</li>
-                                <li>Cam kết 1000pip/tháng</li>
-                                <li>Nhỏ hơn 600pip hoàn tiền 100%</li>
-                                <li>5-8 tín hiệu/ngày</li>
-                                <li>Tư vấn trực tiếp khi vào lệnh</li>
-                                <li>Admin thông báo trước khi vào lệnh</li>
-                            </ul>
-                            <a class="btn btn-lg text-white text-uppercase btn-theme-colored btn-block pt-20 pb-20 btn-flat" rel="nofollow" href="https://icatsignal.com/">Đăng ký</a>
+                    <div class="col-md-4">
+                        <div class="icon-box text-center">
+                            <a href="#" class="icon icon-gray icon-bordered bg-hover-theme-colored icon-circled icon-xl">
+                                <i class="fa fa-pie-chart text-theme-colored font-48"></i>
+                            </a>
+                            <h4 class="icon-box-title text-uppercase"><a class="" href="#">Hệ thống Copytrade</a></h4>
+                            <p class="">Hệ thống copytrade được vận hành bởi các chuyên gia nhiều năm giao dịch trên thị trường Tài chính luôn đảm bảo an toàn cho tài khoản của Khách hàng</p>
+                            <a class="btn btn-dark btn-default btn-theme-colored2 btn-sm mt-10" href="#">Read More</a>
                         </div>
                     </div>
                 </div>
