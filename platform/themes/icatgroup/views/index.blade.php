@@ -8,7 +8,7 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="home-content pt-90 pb-90 text-center">
-                                <h1 class="text-white text-uppercase font-54"><span class="text-theme-colored2">IC&T GROUP</span>Không chỉ là Giải pháp</h1>
+                                <h1 class="text-white text-uppercase font-54"><span class="text-theme-colored2">IC&T GROUP<br></span>Không chỉ là Giải pháp</h1>
                                 <h3 class="text-white font-weight-400">Chúng tôi mang đến cho bạn một Tư duy Tài chính và Truyền Thông theo xu thế mới!</h3>
                             </div>
                         </div>
@@ -41,7 +41,7 @@
                                     <i class="fa fa-money font-48 font-weight-100"></i>
                                 </a>
                                 <h3 class="mt-0">Tầm nhìn</h3>
-                                <p>Là công ty tiên phong trong việc áp dụng công nghệ 4.0 vào Quản lý Tài chính và Truyền thông mang đến sự hiệu quả cho các Đối tác và Khách hàng tại Việt Nam.</p>
+                                <p>IC&T GROUP à công ty tiên phong trong việc áp dụng công nghệ 4.0 vào Quản lý Tài chính và Truyền thông mang đến sự hiệu quả cho các Đối tác và Khách hàng tại Việt Nam.</p>
                             </div>
                         </div>
                     </div>
@@ -353,7 +353,7 @@
                     </div>
                     <div class="col-md-5 hidden-xs">
                         <div class="thumb text-lg-left text-center pr--60 pr_md--5 pr_sm--5">
-                            <img src="themes/icatgroup/image/about-2.jpg" alt="about images" style="border-radius: 50%">
+                            <img src="themes/icatgroup/images/about-2.jpg" alt="about images" style="border-radius: 50%">
                         </div>
                     </div>
                 </div>
