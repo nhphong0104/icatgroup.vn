@@ -248,7 +248,7 @@
                     <div class="col-md-4">
                         <div class="icon-box text-center">
                             <a href="#" class="icon icon-gray icon-bordered bg-hover-theme-colored icon-circled icon-xl">
-                                <i class="fa fa-cubes text-theme-colored font-48"></i>
+                                <i class="fas fa-chart-line text-theme-colored font-48"></i>
                             </a>
                             <h4 class="icon-box-title text-uppercase"><a class="" href="#">Gói tín hiệu</a></h4>
                             <p class="">Tín hiệu được các chuyên gia nhiều năm kinh nghiệm giao dịch ngoại hối và chứng khoán cung cấp hàng ngày với độ chính xác lên đến ≥ 70%.</p>
