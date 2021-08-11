@@ -432,10 +432,10 @@
                 <div class="col-md-12">
                     <!-- Section: Clients -->
                     <div class="owl-carousel-6col text-center">
-                        <div class="item"> <a href="https://fintekco.com/"><img src="http://icatgroup.vn/storage/logo/1-1.png" alt=""></a></div>
-                        <div class="item"> <a href="https://invest318.com/"><img src="http://icatgroup.vn/storage/logo/2-1.png" alt=""></a></div>
-                        <div class="item"> <a href="https://www.gomarkets.com/"><img src="http://icatgroup.vn/storage/logo/3-1.png" alt=""></a></div>
-                        <div class="item"> <a href="https://beautyl.co/"><img src="http://icatgroup.vn/storage/logo/4.png" alt=""></a></div>
+                        <div class="item"> <a href="https://fintekco.com/"><img src="http://icatgroup.vn/storage/logo/1-1-1.png" alt=""></a></div>
+                        <div class="item"> <a href="https://invest318.com/"><img src="http://icatgroup.vn/storage/logo/2-2.png" alt=""></a></div>
+                        <div class="item"> <a href="https://www.gomarkets.com/"><img src="http://icatgroup.vn/storage/logo/3-1-1.png" alt=""></a></div>
+                        <div class="item"> <a href="https://beautyl.co/"><img src="http://icatgroup.vn/storage/logo/4-1.png" alt=""></a></div>
                     </div>
                 </div>
             </div>
