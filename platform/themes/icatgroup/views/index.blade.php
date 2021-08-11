@@ -252,7 +252,6 @@
                             </a>
                             <h4 class="icon-box-title text-uppercase"><a class="" href="#">Gói tín hiệu</a></h4>
                             <p class="">Tín hiệu được các chuyên gia nhiều năm kinh nghiệm giao dịch ngoại hối và chứng khoán cung cấp hàng ngày với độ chính xác lên đến ≥ 70%.</p>
-                            <a class="btn btn-dark btn-default btn-theme-colored2 btn-sm mt-10" href="#">Read More</a>
                         </div>
                     </div>
                     <div class="col-md-4">
@@ -262,7 +261,6 @@
                             </a>
                             <h4 class="icon-box-title text-uppercase"><a class="" href="#">Zoom thực chiến</a></h4>
                             <p class=""> Các buổi Live - Zoom trade live thực chiến thứ 4 – thứ 6 hàng tuần kiếm lợi nhuận trực tiếp do các chuyên gia IC&T GROUP tổ chức.</p>
-                            <a class="btn btn-dark btn-default btn-theme-colored btn-sm mt-10" href="#">Read More</a>
                         </div>
                     </div>
                     <div class="col-md-4">
@@ -272,7 +270,6 @@
                             </a>
                             <h4 class="icon-box-title text-uppercase"><a class="" href="#">Hệ thống Copytrade</a></h4>
                             <p class="">Hệ thống copytrade được vận hành bởi các chuyên gia nhiều năm giao dịch trên thị trường Tài chính luôn đảm bảo an toàn cho tài khoản của Khách hàng</p>
-                            <a class="btn btn-dark btn-default btn-theme-colored2 btn-sm mt-10" href="#">Read More</a>
                         </div>
                     </div>
                 </div>
