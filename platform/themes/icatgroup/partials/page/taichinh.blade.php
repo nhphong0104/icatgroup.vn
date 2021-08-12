@@ -1,21 +1,3 @@
-<div class="main-content">
-    <!-- Section: inner-header -->
-    <section class="inner-header divider parallax layer-overlay overlay-dark-5" data-bg-img="http://icatgroup.vn/themes/icatgroup/images/slide1.jpg" style="background-image: url(http://icatgroup.vn/themes/icatgroup/images/slide1.jpg); background-position: 50% 77px;">
-        <div class="container pt-70 pb-20">
-            <!-- Section Content -->
-            <div class="section-content">
-                <div class="row">
-                    <div class="col-md-12">
-                        <h2 class="title text-muted">{{$page->name}}</h2>
-                        <ol class="breadcrumb text-left text-black mt-10">
-                            <li><a href="#">Trang chủ</a></li>
-                            <li class="active text-gray-silver">{{$page->name}}</li>
-                        </ol>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
     <!-- Section: Pricing -->
     <section id="pricing">
@@ -61,4 +43,18 @@
             </div>
         </div>
     </section>
-</div>
+    <section class="clients bg-theme-colored2">
+        <div class="container pt-10 pb-10">
+            <div class="row">
+                <div class="col-md-12">
+                    <!-- Section: Clients -->
+                    <div class="owl-carousel-6col text-center">
+                        <div class="item"> <a href="https://fintekco.com/"><img src="http://icatgroup.vn/storage/logo/1-1-1.png" alt=""></a></div>
+                        <div class="item"> <a href="https://invest318.com/"><img src="http://icatgroup.vn/storage/logo/2-2.png" alt=""></a></div>
+                        <div class="item"> <a href="https://www.gomarkets.com/"><img src="http://icatgroup.vn/storage/logo/3-1-1.png" alt=""></a></div>
+                        <div class="item"> <a href="https://beautyl.co/"><img src="http://icatgroup.vn/storage/logo/4-1.png" alt=""></a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>

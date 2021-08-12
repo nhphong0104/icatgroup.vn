@@ -1,23 +1,4 @@
-<div class="main-content">
-    <!-- Section: inner-header -->
-    <section class="inner-header divider parallax layer-overlay overlay-white-8"
-             data-bg-img="http://icatgroup.vn/themes/icatgroup/images/slide1.jpg"
-             style="background-image: url(http://icatgroup.vn/themes/icatgroup/images/slide1.jpg); background-position: 50% 13px;">
-        <div class="container pt-60 pb-60">
-            <!-- Section Content -->
-            <div class="section-content">
-                <div class="row">
-                    <div class="col-md-12 text-center">
-                        <h2 class="title">{{$page->name}}</h2>
-                        <ol class="breadcrumb text-center text-black mt-10">
-                            <li><a href="/">Trang chủ</a></li>
-                            <li class="active text-theme-colored">{{$page->name}}</li>
-                        </ol>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+
     <section class="divider">
         <div class="container pt-60 pb-60">
             <div class="section-title mb-60">
@@ -99,4 +80,3 @@
             </div>
         </div>
     </section>
-</div>
