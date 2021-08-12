@@ -41,7 +41,7 @@
                                     <i class="fa fa-money font-48 font-weight-100"></i>
                                 </a>
                                 <h3 class="mt-0">Tầm nhìn</h3>
-                                <p>IC&T GROUP à công ty tiên phong trong việc áp dụng công nghệ 4.0 vào Quản lý Tài chính và Truyền thông mang đến sự hiệu quả cho các Đối tác và Khách hàng tại Việt Nam.</p>
+                                <p>IC&T GROUP là công ty tiên phong trong việc áp dụng công nghệ 4.0 vào Quản lý Tài chính và Truyền thông mang đến sự hiệu quả cho các Đối tác và Khách hàng tại Việt Nam.</p>
                             </div>
                         </div>
                     </div>
@@ -100,41 +100,41 @@
                 <div class="row">
                     <div class="col-md-10 col-md-offset-1">
                         <h2 class="text-uppercase line-bottom-double-line-centered mt-0">Dịch vụ <span class="text-theme-colored2">IC&T GROUP</span></h2>
-                        <p>Mang đến giá trị nền tảng cho các cá nhân, doanh nghiệp đầu tư tài chính chúng tôi cung cấp dịch vụ</p>
+                        <p>Mang đến giá trị nền tảng cho các cá nhân, doanh nghiệp đầu tư tài chính chúng tôi cung cấp dịch vụ.</p>
                     </div>
                 </div>
             </div>
             <div class="row mtli-row-clearfix">
                 <div class="col-xs-12 col-sm-6 col-md-4">
                     <div class="service-box icon-box iconbox-theme-colored bg-white p-30 mb-30 border-1px">
-                        <a class="icon icon-dark border-left-theme-colored2-3px pull-left flip mb-0 mr-0 mt-5" href="#">
+                        <a class="icon icon-dark border-left-theme-colored2-3px pull-left flip mb-0 mr-0 mt-5" href="/dich-vu">
                             <i class="fa fa-cubes"></i>
                         </a>
                         <div class="icon-box-details">
                             <h4 class="icon-box-title m-0 mb-5">Dịch vụ tài chính</h4>
-                            <p class="text-gray mb-0">Tư vấn và đưa ra những giải pháp  an toàn về tài chính</p>
+                            <p class="text-gray mb-0">Tư vấn và đưa ra những giải pháp  an toàn về tài chính.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-6 col-md-4">
                     <div class="service-box icon-box iconbox-theme-colored bg-white p-30 mb-30 border-1px">
-                        <a class="icon icon-dark border-left-theme-colored2-3px pull-left flip mb-0 mr-0 mt-5" href="#">
+                        <a class="icon icon-dark border-left-theme-colored2-3px pull-left flip mb-0 mr-0 mt-5" href="/dich-vu">
                             <i class="fa fa-line-chart"></i>
                         </a>
                         <div class="icon-box-details">
                             <h4 class="icon-box-title m-0 mb-5">Hệ thống đào tạo</h4>
-                            <p class="text-gray mb-0">Hệ thống đào tạo bài bản phù hợp với mọi trình độ</p>
+                            <p class="text-gray mb-0">Hệ thống đào tạo bài bản phù hợp với mọi trình độ.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-6 col-md-4">
                     <div class="service-box icon-box iconbox-theme-colored bg-white p-30 mb-30 border-1px">
-                        <a class="icon icon-dark border-left-theme-colored2-3px pull-left flip mb-0 mr-0 mt-5" href="#">
+                        <a class="icon icon-dark border-left-theme-colored2-3px pull-left flip mb-0 mr-0 mt-5" href="/dich-vu">
                             <i class="fa fa-pie-chart"></i>
                         </a>
                         <div class="icon-box-details">
                             <h4 class="icon-box-title m-0 mb-5">Giải pháp truyền thông</h4>
-                            <p class="text-gray mb-0">IC&T Group tự hào mang đến các giải pháp truyền thông</p>
+                            <p class="text-gray mb-0">IC&T Group tự hào mang đến các giải pháp truyền thông.</p>
                         </div>
                     </div>
                 </div>
@@ -238,7 +238,7 @@
                 <div class="row">
                     <div class="col-md-10 col-md-offset-1">
                         <h2 class="text-uppercase line-bottom-double-line-centered mt-0">Dịch vụ <span class="text-theme-colored2">tài chính</span></h2>
-                        <p>Chúng tôi đang cung cấp Dịch vụ cho các Nhà giao dịch trong hơn 3 năm nay và đã giúp hàng nghìn Khách hàng hài lòng cho đến nay. Mục tiêu của chúng tôi là cung cấp cho bạn dịch vụ chuyên nghiệp chất lượng và với tất cả kiến thức, nỗ lực và kinh nghiệm của chúng tôi hướng dẫn bạn trở thành một Nhà giao dịch thành công. </p>
+                        <p>Chúng tôi đang cung cấp Dịch vụ cho các Nhà giao dịch trong hơn 3 năm nay và đã giúp hàng nghìn Khách hàng hài lòng. Mục tiêu của chúng tôi là cung cấp cho bạn dịch vụ chuyên nghiệp chất lượng và với tất cả kiến thức, nỗ lực và kinh nghiệm của chúng tôi hướng dẫn bạn trở thành một Nhà giao dịch thành công. </p>
                     </div>
                 </div>
             </div>
