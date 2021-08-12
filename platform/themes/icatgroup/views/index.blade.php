@@ -52,7 +52,7 @@
                                     <i class="fa fa-paper-plane font-48 font-weight-100"></i>
                                 </a>
                                 <h3 class="mt-0">Sứ mệnh</h3>
-                                <p>Mọi sản phẩm và dich vụ IC&T Group đều có một mục đích tồn tại
+                                <p>Mọi sản phẩm và Dich vụ IC&T Group đều có một mục đích tồn tại
                                     duy nhất đó chính là góp phần vào sự thịnh vượng - thành công - hài lòng của Đối tác và Khách hàng.</p>
                             </div>
                         </div>
@@ -250,7 +250,7 @@
                                 <i class="fa fa-bar-chart text-theme-colored font-48"></i>
                             </a>
                             <h4 class="icon-box-title text-uppercase"><a class="" href="#">Tư vấn</a></h4>
-                            <p class="">Chúng tôi không chỉ cung cấp các giải pháp giúp bạn có được “kiến thức để đầu tư thông mình tiến tới tự do tài chính”, mà chúng tôi còn đồng hành cùng bạn thực hiện nó một cách tốt nhất, tiết kiệm chi phí và thời gian</p>
+                            <p class="">Chúng tôi không chỉ cung cấp các giải pháp giúp bạn có được “kiến thức để đầu tư thông minh tiến tới tự do tài chính”, mà chúng tôi còn đồng hành cùng bạn thực hiện nó một cách tốt nhất, tiết kiệm chi phí và thời gian</p>
                         </div>
                     </div>
                     <div class="col-md-4">
