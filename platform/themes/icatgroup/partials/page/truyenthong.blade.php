@@ -17,21 +17,5 @@
         </div>
     </section>
 
-    @switch($page->id)
-        @case:19
-            {!! Theme::partial('page.taichinh') !!}
-            @break
-        @case:20
-            {!! Theme::partial('page.daotao') !!}
-        @break
-        @case:21
-            {!! Theme::partial('page.truyenthong') !!}
-        @break
-        @case:22
-            {!! Theme::partial('page.about') !!}
-        @break
-        @case:18
-            {!! Theme::partial('page.contact') !!}
-        @break
-    @endswitch
+    {!! apply_filters(PAGE_FILTER_FRONT_PAGE_CONTENT, $page->content, $page) !!}
 </div>
