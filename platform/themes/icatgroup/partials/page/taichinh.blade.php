@@ -15,7 +15,7 @@
                     <div class="col-md-4">
                         <div class="icon-box text-center">
                             <a href="#" class="icon icon-gray icon-bordered bg-hover-theme-colored icon-circled icon-xl">
-                                <i class="fa fa-chart text-theme-colored font-48"></i>
+                                <i class="fa fa-bar-chart text-theme-colored font-48"></i>
                             </a>
                             <h4 class="icon-box-title text-uppercase"><a class="" href="#">Tư vấn</a></h4>
                             <p class="">Chúng tôi không chỉ cung cấp các giải pháp giúp bạn có được “kiến thức để đầu tư thông mình tiến tới tự do tài chính”, mà chúng tôi còn đồng hành cùng bạn thực hiện nó một cách tốt nhất, tiết kiệm chi phí và thời gian</p>
