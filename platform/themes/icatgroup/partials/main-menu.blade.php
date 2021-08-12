@@ -1,6 +1,6 @@
 <ul {!! clean($options) !!}>
     @foreach ($menu_nodes as $key => $row)
-        <li class=" @if ($row->active) active @endif">
+        <li class=" @if ($row->active) active @endif {{ $row->css_class }}">
             <a href="{{ $row->url }}" target="{{ $row->target }}">
                 @if ($row->icon_font)<i class='{{ trim($row->icon_font) }}'></i> @endif{{ $row->title }}
             </a>
