@@ -1,7 +1,7 @@
 
 <!-- Start main-content -->
 <div class="main-content">
-    <section id="home" class="divider layer-overlay overlay-white-8est" data-bg-img="/themes/icatgroup/images/bg-home.jpg" style="background-image: url(/themes/icatgroup/images/bg-home.jpg); background-position: 50% 100px;">
+    <section id="home" class="divider parallax layer-overlay overlay-white-8est" data-bg-img="/themes/icatgroup/images/bg-home.jpg" style="background-image: url(/themes/icatgroup/images/bg-home.jpg); background-position: 50% 100px;">
         <div class="display-table">
             <div class="display-table-cell">
                 <div class="container pt-100 pb-100">
