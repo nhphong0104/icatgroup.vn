@@ -18,20 +18,20 @@
     </section>
 
     @switch($page->id)
-        @case:19
+        @case(19)
             {!! Theme::partial('page.taichinh') !!}
             @break
-        @case:20
+        @case(20)
             {!! Theme::partial('page.daotao') !!}
-        @break
-        @case:21
+            @break
+        @case(21)
             {!! Theme::partial('page.truyenthong') !!}
-        @break
-        @case:22
+            @break
+        @case(22)
             {!! Theme::partial('page.about') !!}
-        @break
-        @case:18
+            @break
+        @case(18)
             {!! Theme::partial('page.contact') !!}
-        @break
+            @break
     @endswitch
 </div>
