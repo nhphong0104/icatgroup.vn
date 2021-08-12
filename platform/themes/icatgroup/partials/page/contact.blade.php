@@ -72,7 +72,7 @@
                             <div class="media-body">
                                 <h5 class="mt-0">Chi nhánh 3:</h5>
                                 <p>553/2/5 Luỹ Bán Bích, Phường Phú Thạnh, Quận Tân Phú, TP Hồ Chí Minh</p>
-                                <p>Hotline: 0362555979</p>
+                                <p>Hotline: 036.255.5979</p>
                             </div>
                         </div>
                     </div>
