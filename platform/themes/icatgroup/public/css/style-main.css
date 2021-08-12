@@ -5249,7 +5249,6 @@ blockquote p {
 }
 .mobile-parallax {
   background-size: cover;
-  background-attachment: scroll;
   background-position: center center;
 }
 .divider .container {
