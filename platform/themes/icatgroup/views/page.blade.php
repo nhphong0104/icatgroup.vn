@@ -19,13 +19,7 @@
 
     @switch($page->id)
         @case(19)
-            {!! Theme::partial('page.taichinh') !!}
-            @break
-        @case(20)
-            {!! Theme::partial('page.daotao') !!}
-            @break
-        @case(21)
-            {!! Theme::partial('page.truyenthong') !!}
+            {!! Theme::partial('page.services') !!}
             @break
         @case(22)
             {!! Theme::partial('page.about') !!}

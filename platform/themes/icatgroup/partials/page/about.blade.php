@@ -1,74 +1,40 @@
-<section class="">
-    <div class="container">
+<section class="" data-bg-img="/themes/icatgroup/images/p6.png" style="background-image: url(&quot;images/pattern/p6.png&quot;);">
+    <div class="container pt-0 pb-0">
         <div class="section-content">
             <div class="row">
-                <div class="col-md-6">
-                    <div class="box-hover-effect play-button">
-                        <div class="effect-wrapper">
-                            <div class="thumb">
-                                <img class="img-fullwidth" src="/themes/icatgroup/images/5.jpg" alt="project">
-                            </div>
-                            <div class="overlay-shade"></div>
-                            <div class="text-holder text-holder-middle">
-                                <a href="https://www.youtube.com/watch?v=CqpgLt0XdiI" data-lightbox-gallery="youtube-video" title="Youtube Video">
-                                    <img alt="" src="/themes/icatgroup/images/s1.png">
-                                </a>
-                            </div>
+                <div class="col-sm-12 col-md-4">
+                    <div class="post icon-box p-30 iconbox-theme-colored bg-white border-1px text-center">
+                        <div class="entry-content  bg-theme-colored2-transparent-1">
+                            <a class="icon" href="#">
+                                <i class="fa fa-bar-chart font-48 font-weight-100"></i>
+                            </a>
+                            <h3 class="mt-0">Mục tiêu</h3>
+                            <p>IC&T GROUP được thành lập với mục tiêu không chỉ mang đến các giải pháp thụ động mà còn
+                                là lối tư duy chủ động để hình thành nền tảng Tài chính và Truyền thông toàn diện.</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6">
-                    <h3 class="text-uppercase mt-0 mt-sm-30 pt-60">THÀNH CÔNG CỦA CHÚNG TÔI
-                        ĐƯỢC ĐÁNH GIÁ BẰNG SỰ HÀI LÒNG CỦA BẠN
-                    </h3>
-                    <h4 class="text-theme-colored">Với sự chuyên nghiệp, có trách nhiệm, chúng tôi luôn đưa ra thị trường những dịch vụ tốt nhất!</h4>
-                    <p>Sử dụng dịch vụ của chúng tôi sẽ giúp các bạn tiết kiệm chi phí, thời gian, nhưng vẫn tiếp nhận đầy đủ giá trị cốt lõi để tiến tới “tự do tài chính – phát triển năng lực đầu tư cá nhân”.</p>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section id="service" class="bg-lighter">
-    <div class="container">
-        <div class="section-title text-center">
-            <div class="row">
-                <div class="col-md-10 col-md-offset-1">
-                    <h2 class="text-uppercase line-bottom-double-line-centered mt-0">Dịch vụ <span class="text-theme-colored2">IC&T GROUP</span></h2>
-                    <p>Mang đến giá trị nền tảng cho các cá nhân, doanh nghiệp đầu tư tài chính chúng tôi cung cấp dịch vụ</p>
-                </div>
-            </div>
-        </div>
-        <div class="row mtli-row-clearfix">
-            <div class="col-xs-12 col-sm-6 col-md-4">
-                <div class="service-box icon-box iconbox-theme-colored bg-white p-30 mb-30 border-1px">
-                    <a class="icon icon-dark border-left-theme-colored2-3px pull-left flip mb-0 mr-0 mt-5" href="#">
-                        <i class="fa fa-cubes"></i>
-                    </a>
-                    <div class="icon-box-details">
-                        <h4 class="icon-box-title m-0 mb-5">Dịch vụ tài chính</h4>
-                        <p class="text-gray mb-0">Tư vấn và đưa ra những giải pháp  an toàn về tài chính</p>
+                <div class="col-sm-12 col-md-4">
+                    <div class="post icon-box p-30 iconbox-theme-colored bg-white border-1px text-center">
+                        <div class="entry-content  bg-theme-colored2-transparent-1">
+                            <a class="icon" href="#">
+                                <i class="fa fa-money font-48 font-weight-100"></i>
+                            </a>
+                            <h3 class="mt-0">Tầm nhìn</h3>
+                            <p>IC&T GROUP à công ty tiên phong trong việc áp dụng công nghệ 4.0 vào Quản lý Tài chính và Truyền thông mang đến sự hiệu quả cho các Đối tác và Khách hàng tại Việt Nam.</p>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-xs-12 col-sm-6 col-md-4">
-                <div class="service-box icon-box iconbox-theme-colored bg-white p-30 mb-30 border-1px">
-                    <a class="icon icon-dark border-left-theme-colored2-3px pull-left flip mb-0 mr-0 mt-5" href="#">
-                        <i class="fa fa-line-chart"></i>
-                    </a>
-                    <div class="icon-box-details">
-                        <h4 class="icon-box-title m-0 mb-5">Hệ thống đào tạo</h4>
-                        <p class="text-gray mb-0">Hệ thống đào tạo bài bản phù hợp với mọi trình độ</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xs-12 col-sm-6 col-md-4">
-                <div class="service-box icon-box iconbox-theme-colored bg-white p-30 mb-30 border-1px">
-                    <a class="icon icon-dark border-left-theme-colored2-3px pull-left flip mb-0 mr-0 mt-5" href="#">
-                        <i class="fa fa-pie-chart"></i>
-                    </a>
-                    <div class="icon-box-details">
-                        <h4 class="icon-box-title m-0 mb-5">Giải pháp truyền thông</h4>
-                        <p class="text-gray mb-0">IC&T Group tự hào mang đến các giải pháp truyền thông</p>
+                <div class="col-sm-12 col-md-4">
+                    <div class="post icon-box p-30 iconbox-theme-colored bg-white border-1px text-center">
+                        <div class="entry-content  bg-theme-colored2-transparent-1">
+                            <a class="icon" href="#">
+                                <i class="fa fa-paper-plane font-48 font-weight-100"></i>
+                            </a>
+                            <h3 class="mt-0">Sứ mệnh</h3>
+                            <p>Mọi sản phẩm và dich vụ IC&T Group đều có một mục đích tồn tại
+                                duy nhất đó chính là góp phần vào sự thịnh vượng - thành công - hài lòng của Đối tác và Khách hàng.</p>
+                        </div>
                     </div>
                 </div>
             </div>
