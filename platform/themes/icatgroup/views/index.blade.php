@@ -357,7 +357,7 @@
                                     <img class="img-thumbnail" width="75" alt="" src="http://icatgroup.vn/storage/customner/photo-2021-07-26-16-58-05-150x150.jpg">
                                 </div>
                                 <div class="ml-100 ">
-                                    <p class="text-white mt-0">Cảm ơn đội ngũ kỹ thuật IC&T Group đã hỗ trợ về phân tích cơ bản và phân tích kỹ thuật rất nhiều ạ. Và có những buổi dạy và chia sẽ kiến thức củng như kinh nghiệm rất hay trong lĩnh vực forex ạ.</p>
+                                    <p class="text-white mt-0">Cảm ơn đội ngũ kỹ thuật IC&T Group đã hỗ trợ về phân tích cơ bản và phân tích kỹ thuật rất nhiều ạ. Và có những buổi dạy và chia sẽ kiến thức cũng như kinh nghiệm rất hay trong lĩnh vực forex ạ.</p>
                                     <p class="author mt-10">- <span class="text-theme-colored2">Hồ Tiến</span> <small><em class="text-gray-lightgray">Khách hàng IC&T</em></small></p>
                                 </div>
                             </div>
