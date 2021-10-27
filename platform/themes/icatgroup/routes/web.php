@@ -7,9 +7,9 @@ Route::group(['namespace' => 'Theme\Icatgroup\Http\Controllers', 'middleware' =>
 
         // Add your custom route here
         // Ex: Route::get('hello', 'IcatgroupController@getHello');
-
+        Route::get('/tuyen-dung', 'IcatgroupController@getRecruitment')
+            ->name('public.recruitment');
     });
-
 });
 
 Theme::routes();

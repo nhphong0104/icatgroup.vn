@@ -30,4 +30,8 @@ class IcatgroupController extends PublicController
     {
         return parent::getSiteMap();
     }
+    public function getRecruitment(){
+
+        return \Theme::scope('rescuitment')->render();
+    }
 }
