@@ -69,7 +69,7 @@
             </div>
         </div>
     </section>
-    <section class="divider parallax layer-overlay overlay-theme-colored-2" data-bg-img="https://icatgroup.vn/themes/icatgroup/images/bh4.jpg" data-parallax-ratio="0.7" style="background-image: url(&quot;http://icatgroup.vn/themes/icatgroup/images/bh4.jpg&quot;); background-position: 50% 22px;">
+    <section class="divider parallax layer-overlay overlay-theme-colored-2" data-bg-img="https://icatgroup.vn/themes/icatgroup/images/bh5.jpg" data-parallax-ratio="0.7" style="background-image: url(&quot;http://icatgroup.vn/themes/icatgroup/images/bh5.jpg&quot;); background-position: 50% 22px;">
         <div class="container">
             <div class="section-content text-center">
                 <div class="row">
