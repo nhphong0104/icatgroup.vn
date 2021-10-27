@@ -1,20 +1,80 @@
 
 <!-- Start main-content -->
 <div class="main-content">
+    <section id="home" class="divider parallax layer-overlay overlay-white-8est" data-bg-img="/themes/icatgroup/images/bg-home.jpg" style="background-image: url(/themes/icatgroup/images/bg-home.jpg); background-position: 50% 100px;">
+        <div class="display-table">
+            <div class="display-table-cell">
+                <div class="container pt-100 pb-100">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="home-content pt-90 pb-90 text-center">
+                                <h1 class="text-white text-uppercase font-54"><span class="text-theme-colored2">IC&T GROUP<br></span>Không chỉ là Giải pháp</h1>
+                                <h3 class="text-white font-weight-400">Chúng tôi mang đến cho bạn một Tư duy Tài chính và Truyền Thông theo xu thế mới!</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="" data-bg-img="/themes/icatgroup/images/p6.png" style="background-image: url(&quot;images/pattern/p6.png&quot;);">
+        <div class="container pt-0 pb-0">
+            <div class="section-content">
+                <div class="row" data-margin-top="-100px" style="margin-top: -100px;">
+                    <div class="col-sm-12 col-md-4">
+                        <div class="post icon-box p-30 iconbox-theme-colored bg-white border-1px text-center">
+                            <div class="entry-content  bg-theme-colored2-transparent-1">
+                                <a class="icon" href="#">
+                                    <i class="fa fa-bar-chart font-48 font-weight-100"></i>
+                                </a>
+                                <h3 class="mt-0">Mục tiêu</h3>
+                                <p>IC&T GROUP được thành lập với mục tiêu không chỉ mang đến các giải pháp thụ động mà còn
+                                    là lối tư duy chủ động để hình thành nền tảng Tài chính và Truyền thông toàn diện.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-md-4">
+                        <div class="post icon-box p-30 iconbox-theme-colored bg-white border-1px text-center">
+                            <div class="entry-content  bg-theme-colored2-transparent-1">
+                                <a class="icon" href="#">
+                                    <i class="fa fa-money font-48 font-weight-100"></i>
+                                </a>
+                                <h3 class="mt-0">Tầm nhìn</h3>
+                                <p>IC&T GROUP là công ty tiên phong trong việc áp dụng công nghệ 4.0 vào Quản lý Tài chính và Truyền thông mang đến sự hiệu quả cho các Đối tác và Khách hàng tại Việt Nam.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-md-4">
+                        <div class="post icon-box p-30 iconbox-theme-colored bg-white border-1px text-center">
+                            <div class="entry-content  bg-theme-colored2-transparent-1">
+                                <a class="icon" href="#">
+                                    <i class="fa fa-paper-plane font-48 font-weight-100"></i>
+                                </a>
+                                <h3 class="mt-0">Sứ mệnh</h3>
+                                <p>Mọi sản phẩm và Dich vụ IC&T Group đều có một mục đích tồn tại
+                                    duy nhất đó chính là góp phần vào sự thịnh vượng - thành công - hài lòng của Đối tác và Khách hàng.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <section class="">
         <div class="container">
             <div class="section-content">
                 <div class="row">
-                    <div class="col-md-12 mb-10">
-                        <h3>IC&T GROUP đối tác chiến lược của GO MARKETS - Sàn giao dịch hàng đầu của Úc trong lĩnh vực Chứng khoán – Ngoại hối đang tìm kiếm Trưởng nhóm – Nhân viên Telesales chuyên nghiệp và nhiệt huyết.</h3>
+                    <div class="col-md-6">
+                        <ul class="list angle-double-right list-border">
+                            <li><span>Dịch vụ tài chính</span></li>
+                        </ul>
                     </div>
-                    <div class="col-md-5">
-                        <div class="thumb text-lg-left text-center pr--60 pr_md--5 pr_sm--5">
-                            <img src="http://icatgroup.vn/storage/galleries/banner-tuyen-dung-1.jpg" alt="about images">
-                        </div>
-                    </div>
-                    <div class="col-md-7">
+
+                    <div class="col-md-6">
                         <div class="left media p-0 mb-10">
+                            <h3 class="mt-0">Tuyển dụng nhân viên kinh doanh</h3>
                             <div class="media-body">
                                 <h4 class="mt-0">Yêu cầu:</h4>
                                 <ul>
