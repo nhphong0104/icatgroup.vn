@@ -36,7 +36,7 @@
                         <div class="left media p-0 mb-10">
                             <a href="#" class="pull-left flip"><i class="fa fa-id-card-o text-theme-colored"></i></a>
                             <div class="media-body">
-                                <p><strong>Yêu cầu bằng cấp:</strong> Tốt nghiệp THPT</p>
+                                <p><strong>Yêu cầu bằng cấp:</strong> Tốt nghiệp Đại học - Cao đẳng</p>
                             </div>
                         </div>
                         <div class="left media p-0 mb-10">
