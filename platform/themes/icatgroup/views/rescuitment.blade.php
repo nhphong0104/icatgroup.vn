@@ -1,140 +1,204 @@
 
 <!-- Start main-content -->
 <div class="main-content">
-    <section id="home" class="divider parallax layer-overlay overlay-white-8est" data-bg-img="/themes/icatgroup/images/bg-home.jpg" style="background-image: url(/themes/icatgroup/images/bg-home.jpg); background-position: 50% 100px;">
-        <div class="display-table">
-            <div class="display-table-cell">
-                <div class="container pt-100 pb-100">
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="home-content pt-90 pb-90 text-center">
-                                <h1 class="text-white text-uppercase font-54"><span class="text-theme-colored2">IC&T GROUP<br></span>Không chỉ là Giải pháp</h1>
-                                <h3 class="text-white font-weight-400">Chúng tôi mang đến cho bạn một Tư duy Tài chính và Truyền Thông theo xu thế mới!</h3>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section class="" data-bg-img="/themes/icatgroup/images/p6.png" style="background-image: url(&quot;images/pattern/p6.png&quot;);">
-        <div class="container pt-0 pb-0">
+    <section class="inner-header divider parallax layer-overlay overlay-dark-5" data-bg-img="http://icatgroup.vn/themes/icatgroup/images/slide1.jpg" style="background-image: url(http://icatgroup.vn/themes/icatgroup/images/slide1.jpg); background-position: 50% 77px;">
+        <div class="container pt-70 pb-20">
+            <!-- Section Content -->
             <div class="section-content">
-                <div class="row" data-margin-top="-100px" style="margin-top: -100px;">
-                    <div class="col-sm-12 col-md-4">
-                        <div class="post icon-box p-30 iconbox-theme-colored bg-white border-1px text-center">
-                            <div class="entry-content  bg-theme-colored2-transparent-1">
-                                <a class="icon" href="#">
-                                    <i class="fa fa-bar-chart font-48 font-weight-100"></i>
-                                </a>
-                                <h3 class="mt-0">Mục tiêu</h3>
-                                <p>IC&T GROUP được thành lập với mục tiêu không chỉ mang đến các giải pháp thụ động mà còn
-                                    là lối tư duy chủ động để hình thành nền tảng Tài chính và Truyền thông toàn diện.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-12 col-md-4">
-                        <div class="post icon-box p-30 iconbox-theme-colored bg-white border-1px text-center">
-                            <div class="entry-content  bg-theme-colored2-transparent-1">
-                                <a class="icon" href="#">
-                                    <i class="fa fa-money font-48 font-weight-100"></i>
-                                </a>
-                                <h3 class="mt-0">Tầm nhìn</h3>
-                                <p>IC&T GROUP là công ty tiên phong trong việc áp dụng công nghệ 4.0 vào Quản lý Tài chính và Truyền thông mang đến sự hiệu quả cho các Đối tác và Khách hàng tại Việt Nam.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-12 col-md-4">
-                        <div class="post icon-box p-30 iconbox-theme-colored bg-white border-1px text-center">
-                            <div class="entry-content  bg-theme-colored2-transparent-1">
-                                <a class="icon" href="#">
-                                    <i class="fa fa-paper-plane font-48 font-weight-100"></i>
-                                </a>
-                                <h3 class="mt-0">Sứ mệnh</h3>
-                                <p>Mọi sản phẩm và Dich vụ IC&T Group đều có một mục đích tồn tại
-                                    duy nhất đó chính là góp phần vào sự thịnh vượng - thành công - hài lòng của Đối tác và Khách hàng.</p>
-                            </div>
-                        </div>
+                <div class="row">
+                    <div class="col-md-12 text-center">
+                        <h2 class="title text-white">Tuyển dụng nhân viên kinh doanh</h2>
                     </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <section class="">
+    <section class="intro-rescuitment">
         <div class="container">
             <div class="section-content">
                 <div class="row">
-                    <div class="col-md-6">
-                        <ul class="list angle-double-right list-border">
-                            <li><span>Dịch vụ tài chính</span></li>
-                        </ul>
-                    </div>
-
-                    <div class="col-md-6">
-                        <div class="left media p-0 mb-10">
-                            <h3 class="mt-0">Tuyển dụng nhân viên kinh doanh</h3>
-                            <div class="media-body">
-                                <h4 class="mt-0">Yêu cầu:</h4>
-                                <ul>
-                                    <li>
-                                        Trưởng nhóm telesales: có kinh nghiệm quản lý đội nhóm telesales lĩnh vực đầu tư tài chính trên 1 năm.
-                                    </li>
-                                    <li>
-                                        Nhân viên telesales: giao tiếp tốt, nắm bắt tâm lý khách hàng, hiểu biết về lĩnh vực đầu tư tài chính.
-                                    </li>
-                                </ul>
+                            <div class="col-md-6">
+                                <div class="left media p-0 mb-10">
+                                    <a href="#" class="pull-left flip"><i class="fa fa-money text-theme-colored"></i></a>
+                                    <div class="media-body">
+                                        <p><strong>Mức lương:</strong> Trên 20 triệu</p>
+                                    </div>
+                                </div>
+                                <div class="left media p-0 mb-10">
+                                    <a href="#" class="pull-left flip"><i class="fa fa-universal-access text-theme-colored"></i></a>
+                                    <div class="media-body">
+                                        <p><strong>Kinh nghiệm:</strong> Chưa có kinh nghiệm</p>
+                                    </div>
+                                </div>
+                                <div class="left media p-0 mb-10">
+                                    <a href="#" class="pull-left flip"><i class="fa fa-id-card-o text-theme-colored"></i></a>
+                                    <div class="media-body">
+                                        <p><strong>Yêu cầu bằng cấp:</strong> Tốt nghiệp THPT</p>
+                                    </div>
+                                </div>
+                                <div class="left media p-0 mb-10">
+                                    <a href="#" class="pull-left flip"><i class="fa fa-bar-chart text-theme-colored"></i></a>
+                                    <div class="media-body">
+                                        <p><strong>Số lượng cần tuyển:</strong> 10</p>
+                                    </div>
+                                </div>
+                                <div class="left media p-0 mb-10">
+                                    <a href="#" class="pull-left flip"><i class="fa fa-list text-theme-colored"></i></a>
+                                    <div class="media-body">
+                                        <p><strong>Ngành nghề:</strong> Nhân viên kinh doanh</p>
+                                    </div>
+                                </div>
+                                <div class="left media p-0 mb-10">
+                                    <a href="#" class="pull-left flip"><i class="fa fa-phone text-theme-colored"></i></a>
+                                    <div class="media-body">
+                                        <p><strong>Liên hệ:</strong> MS Thanh - <strong>SDT:</strong> 0355072305</p>
+                                    </div>
+                                </div>
                             </div>
-
+                            <div class="col-md-6">
+                                <div class="left media p-0 mb-10">
+                                    <a href="#" class="pull-left flip"><i class="fa fa-globe text-theme-colored"></i></a>
+                                    <div class="media-body">
+                                        <p><strong>Địa điểm làm việc:</strong><span class="text-theme-colored2">Duy Tân - Cầu Giấy - Hà Nội</span></p>
+                                    </div>
+                                </div>
+                                <div class="left media p-0 mb-10">
+                                    <a href="#" class="pull-left flip"><i class="fa fa-podcast text-theme-colored"></i></a>
+                                    <div class="media-body">
+                                        <p><strong>Chức vụ:</strong> Chuyên viên- nhân viên</p>
+                                    </div>
+                                </div>
+                                <div class="left media p-0 mb-10">
+                                    <a href="#" class="pull-left flip"><i class="fa fa-clock-o text-theme-colored"></i></a>
+                                    <div class="media-body">
+                                        <p><strong>Hình thức làm việc:</strong> Toàn thời gian cố định</p>
+                                    </div>
+                                </div>
+                                <div class="left media p-0 mb-10">
+                                    <a href="#" class="pull-left flip"><i class="fa fa-venus-mars text-theme-colored"></i></a>
+                                    <div class="media-body">
+                                        <p><strong>Yêu cầu giới tính:</strong> Không yêu cầu</p>
+                                    </div>
+                                </div>
+                                <div class="left media p-0 mb-10">
+                                    <a href="#" class="pull-left flip"><i class="fa fa-grav text-theme-colored"></i></a>
+                                    <div class="media-body">
+                                        <p><strong>Yêu cầu độ tuổi:</strong>Từ 22 đến 31 tuổi</p>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="detail-rescuitment bg-lighter">
+        <div class="container">
+            <div class="section-content">
+                <div class="row">
+                    <div class="col-md-4">
                         <div class="left media p-0 mb-10">
-                            <div class="media-body">
-                            <h4 class="mt-0">Quyền lợi:</h4>
+                            <h4 class="mt-0">MÔ TẢ CÔNG VIỆC</h4>
+                        </div>
+                    </div>
+                    <div class="col-md-8">
+                        <div class="media-body">
                             <ul>
                                 <li>
-                                    Thu nhập :
-                                    <br>
-                                    + Trưởng nhóm telesales: không giới hạn lên đến 40 triệu vnđ.
-                                    <br>
-                                    + Nhân viên telesales: 15 – 25 triệu vnđ (Lương cứng + hoa hồng + thưởng).
+                                    - Tư vấn khách hàng theo data được cung cấp sẵn.
                                 </li>
                                 <li>
-                                    Thưởng lễ, Tết, lương tháng 13, du lịch, liên hoan sinh nhật hàng tháng và nhiều chính sách đãi ngộ khác.
+                                    - Tìm kiếm và chăm sóc khách hàng tiềm năng.
                                 </li>
                                 <li>
-                                    Data khách hàng do công ty cung cấp.
+                                    - Tư vấn cho khách hàng các sản phẩm do công ty phân phối.
                                 </li>
                                 <li>
-                                    Có hệ thống Marketing – Chăm sóc khách hàng hỗ trợ.
+                                    - Hỗ trợ khách hàng hoàn tất các thủ tục giao dịch
                                 </li>
                             </ul>
                         </div>
-                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="section-content">
+                <div class="row">
+                    <div class="col-md-4">
                         <div class="left media p-0 mb-10">
-                            <div class="media-body">
-                                <h4 class="mt-0">Thời gian làm việc:</h4>
-                                <ul>
-                                    <li>
-                                        Từ Thứ 2 - Thứ 6: 8h40 – 17h40 (Nghỉ trưa 1h).
-                                    </li>
-                                    <li>
-                                        Thứ 7 – Chủ Nhật: nghỉ
-                                    </li>
-                                </ul>
-                            </div>
+                            <h4 class="mt-0">QUYỀN LỢI ĐƯỢC HƯỞNG</h4>
+                        </div>
+                    </div>
+                    <div class="col-md-8">
+                        <div class="media-body">
+                            <ul>
+                                <li>
+                                    - Tổng thu nhập từ 12 triệu trở lên (bao gồm lương cứng + hoa hồng)
+                                </li>
+                                <li>
+                                    - Thưởng lễ, Tết, lương tháng 13, du lịch, liên hoan sinh nhật hàng tháng và nhiều chính sách đãi ngộ khác.
+                                </li>
+                                <li>
+                                    - Data khách hàng do công ty cung cấp.
+                                </li>
+                                <li>
+                                    - Có hệ thống Marketing – Chăm sóc khách hàng hỗ trợ.
+                                </li>
+                                <li>
+                                    - Làm việc từ thứ 2 - thứ 6 (Nghỉ thứ 7, chủ nhật)
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="section-content">
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="left media p-0 mb-10">
+                            <h4 class="mt-0">YÊU CẦU KHÁC</h4>
+                        </div>
+                    </div>
+                    <div class="col-md-8">
+                        <div class="media-body">
+                            <ul>
+                                <li>
+                                    - Ưu tiên ứng viên đã làm trong lĩnh vực bảo hiểm, bất động sản, tài chính.
+                                </li>
+                                <li>
+                                    - Yêu thích, đam mê kinh doanh và tài chính
+                                </li>
+                                <li>
+                                    - Nhiệt huyết, máu lửa, mong muốn thu nhập cao.
+                                </li>
+                                <li>
+                                    - Tự tin, năng động, chịu được áp lực, không ngại khó khăn.
+                                </li>
+                                <li>
+                                    - Có khả năng giao tiếp, xử lý tình huống nhanh nhạy.
+                                </li>
+                                <li>
+                                    - Không yêu cầu kinh nghiệm và bằng cấp
+                                </li>
+                                <li>
+                                    - Có laptop và phương tiện đi lại
+                                </li>
+                            </ul>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
+
     <section class="divider parallax layer-overlay overlay-theme-colored-2" data-bg-img="https://icatgroup.vn/themes/icatgroup/images/bh5.jpg" data-parallax-ratio="0.7" style="background-image: url(&quot;http://icatgroup.vn/themes/icatgroup/images/bh5.jpg&quot;); background-position: 50% 22px;">
         <div class="container">
             <div class="section-content text-center">
                 <div class="row">
                     <div class="col-md-12">
-                        <h2 class="mt-0 mb-50 text-white">Đăng ký thông tin cá nhân</h2>
+                        <h2 class="mt-0 mb-50 text-white">Nộp hồ sơ</h2>
                     </div>
                 </div>
             </div>
@@ -196,5 +260,25 @@
             </div>
         </div>
     </section>
-
 </div>
+<style>
+    .intro-rescuitment p{
+        font-size: 16px;
+        margin-bottom: 0px;
+    }
+    .detail-rescuitment .section-content{
+        border-bottom: 1px dashed #d3d3d3;
+        padding: 10px 0;
+    }
+    .detail-rescuitment .section-content:last-child{
+        border-bottom: none;
+    }
+    .detail-rescuitment ul{
+        list-style: disc;
+    }
+
+    .detail-rescuitment li{
+        font-size: 16px;
+        margin-bottom: 0px;
+    }
+</style>
