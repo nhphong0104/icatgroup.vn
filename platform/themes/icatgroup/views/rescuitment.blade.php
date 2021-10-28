@@ -23,7 +23,7 @@
                         <div class="left media p-0 mb-10">
                             <a href="#" class="pull-left flip"><i class="fa fa-money text-theme-colored"></i></a>
                             <div class="media-body">
-                                <p><strong>Mức lương:</strong> <span class="text-theme-colored2">Trên 20 triệu</span>
+                                <p><strong>Thu nhập:</strong> <span class="text-theme-colored2">Trên 20 triệu</span>
                                 </p>
                             </div>
                         </div>
