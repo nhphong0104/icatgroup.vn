@@ -212,14 +212,18 @@
             <div class="row">
                 {!! Form::open(['route' => 'public.send.contact', 'method' => 'POST', 'class' => 'contact-form']) !!}
                 <div class="col-12 col-md-5">
-                    <input type="text" value="" name="name" placeholder="Họ tên" class="form-control input-lg font-16"
+                    <input type="text" name="name" placeholder="Họ tên" class="form-control input-lg font-16"
                            data-height="45px" id="mce-EMAIL-footer" style="height: 45px;">
                 </div>
                 <div class="col-12 col-md-5">
-                    <input type="text" value="" name="phone" placeholder="Số điện thoại"
+                    <input type="text" name="phone" placeholder="Số điện thoại"
                            class="form-control input-lg font-16" data-height="45px" id="mce-EMAIL-footer"
                            style="height: 45px;">
-                    <input type="hidden" value="{{time()}}@gmail.com" name="email" placeholder="Số điện thoại"
+                    <input type="hidden" value="{{time()}}@gmail.com" name="email"
+                           class="form-control input-lg font-16">
+                    <input type="hidden" value="Đăng ký tuyển dụng" name="subject"
+                           class="form-control input-lg font-16">
+                    <input type="hidden" value="Đăng ký tuyển dụng" name="content"
                            class="form-control input-lg font-16">
                 </div>
                 <div class="col-12 col-md-2">
