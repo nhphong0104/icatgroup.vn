@@ -171,20 +171,36 @@
         </div>
     </div>
     <div class="taisao">
-        <img width="100%" src="../themes/icatgroup/images/bg_sl4.png">
-    </div>
-    <div class="doi-tac">
-        <div class="container">
+        <img class="desktop" width="100%" src="../themes/icatgroup/images/bg_sl4.png">
+        <div class="container mobile">
             <div class="row">
-                <div class="col-12 col-md-2">
-                    <a class="logo-icat" href="{{route('public.single')}}">
-                        <img src="http://icatgroup.vn/storage/logo/logo-favicon.png" alt="">
-                    </a>
+                <div class="col-xs-12">
+                    <h2>Tại sao chọn GO Markets</h2>
                 </div>
-                <div class="col-12 col-md-10">
-                    <div class="text">
-                        <p class="icat-name">IC&T GROUP</p>
-                        <p>Đối tác chiến lược sàn Go markets tại Việt Nam</p>
+                <div class="col-xs-12">
+                    <img width="100%" src="../themes/icatgroup/images/bg_sl4-1.png">
+                </div>
+                <div class="col-xs-12">
+                    <img width="100%" src="../themes/icatgroup/images/bg_sl4-2.png">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="top-banner">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-8 col-12 col-md-offset-2 text-center">
+                   <h2>IC&T GROUP - ĐỐI TÁC CHIẾN LƯỢC SÀN GO MARKETS TẠI VIỆT NAM</h2>
+                    <!-- <div class="title">
+                        Hãy bắt đầu với GO
+                    </div> -->
+                    <div class="submit">
+                        <a class="btn btn-1" data-toggle="modal" data-target="#exampleModal">
+                            Mở tài khoản thật
+                        </a>
+                        <a class="btn btn-2" data-toggle="modal" data-target="#exampleModal">
+                            Mở tài khoản ảo
+                        </a>
                     </div>
                 </div>
             </div>
@@ -275,9 +291,11 @@
 
     .luachon2 {
         background: url(../themes/icatgroup/images/bg_02.png);
-        background-position: 100% 100%;
-        background-size: 100% 100%;
-        padding: 60px 0 150px;
+        background-position: 35%;
+        background-size: contain;
+        padding: 60px 0 50px;
+        background-repeat: no-repeat;
+        background-color: #fff;
     }
     .luachon2 h2 {
         color: #7f7f80;
@@ -356,7 +374,55 @@
         font-weight: 700;
         text-transform: uppercase;
     }
+    .top-banner{
+        padding: 30px 0px;
+        background: #fff;
+    }
+    .top-banner .submit {
+        padding: 25px;
+    }
+    .top-banner .submit .btn {
+        font-size: 24px!important;
+        font-weight: bold;
+        padding: 10px 35px;
+    }
+    .submit .btn-1 {
+        border: 1px solid #1dad4b;
+        color: #333;
+        margin-right: 20px;
+    }
+    .submit .btn-2 {
+        border: 1px solid #f18959;
+        color: #333;
+    }
+    .justify-content-center {
+        -ms-flex-pack: center!important;
+        justify-content: center!important;
+    }
+    .submit .btn-1:hover {
+        background: #1dad4b;
+    }
+    .submit .btn-2:hover {
+        background: #f18959;
+    }
+    .taisao h2{
+        color: #fff;
+        padding-top: 30px;
+    }
     @media (max-width: 768px){
+        .highlights li{
+            margin-bottom: 15px;
+            font-size:16px ;
+        }
+        .luachon-header{
+            padding-bottom: 1px;
+        }
+        .top-banner .submit .btn {
+            font-size: 14px!important;
+            font-weight: unset;
+            font-weight: 500;
+            padding: 5px 10px;
+        }
         .mobile {
             display: block;
         }
@@ -375,6 +441,9 @@
         .form{
             width: 100%;
             padding: 15px;
+        }
+        .desktop{
+            display: none;
         }
     }
 
