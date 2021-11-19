@@ -91,6 +91,7 @@ class ContactTable extends TableAbstract
         $select = [
             'contacts.id',
             'contacts.name',
+            'contacts.subject',
             'contacts.phone',
             'contacts.email',
             'contacts.created_at',
@@ -112,6 +113,11 @@ class ContactTable extends TableAbstract
                 'name'  => 'contacts.id',
                 'title' => trans('core/base::tables.id'),
                 'width' => '20px',
+            ],
+            'subject'       => [
+                'name'  => 'contacts.subject',
+                'title' => trans('plugins/contact::contact.tables.subject'),
+                'class' => 'text-left',
             ],
             'name'       => [
                 'name'  => 'contacts.name',
