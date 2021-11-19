@@ -183,7 +183,7 @@
                 </div>
                 <div class="col-12 col-md-10">
                     <div class="text">
-                        <p class="icat-name">IC&TG GROUP</p>
+                        <p class="icat-name">IC&T GROUP</p>
                         <p>Đối tác chiến lược sàn Go markets tại Việt Nam</p>
                     </div>
                 </div>
@@ -344,6 +344,8 @@
     .doi-tac p{
         font-weight: 500;
         font-size: 36px;
+        font-family: 'Roboto', sans-serif;
+        text-transform: uppercase;
     }
     .doi-tac .icat-name{
         line-height: 1;
