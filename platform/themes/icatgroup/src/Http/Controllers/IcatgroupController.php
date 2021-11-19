@@ -34,4 +34,9 @@ class IcatgroupController extends PublicController
 
         return \Theme::scope('rescuitment')->render();
     }
+
+    public function goMarkets(){
+        //return \Theme::scope('rescuitment')->render();
+        return \Theme::layout('landing_go')->scope('landing.gomarkets')->render();
+    }
 }

@@ -5,10 +5,14 @@
 Route::group(['namespace' => 'Theme\Icatgroup\Http\Controllers', 'middleware' => 'web'], function () {
     Route::group(apply_filters(BASE_FILTER_GROUP_PUBLIC_ROUTE, []), function () {
 
+        Route::get('/go-markets', 'IcatgroupController@goMarkets')
+            ->name('public.markets');
         // Add your custom route here
         // Ex: Route::get('hello', 'IcatgroupController@getHello');
         Route::get('/tuyen-dung', 'IcatgroupController@getRecruitment')
             ->name('public.recruitment');
+
+
     });
 });
 

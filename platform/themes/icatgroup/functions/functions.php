@@ -1,7 +1,8 @@
 <?php
 
 register_page_template([
-    'default' => 'Default'
+    'default' => 'Default',
+    'landing_go'    => 'Landing Go'
 ]);
 
 register_sidebar([
