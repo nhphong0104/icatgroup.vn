@@ -346,12 +346,13 @@
         font-size: 36px;
         font-family: 'Roboto', sans-serif;
         text-transform: uppercase;
+        color: #333;
     }
     .doi-tac .icat-name{
         line-height: 1;
         font-family: 'Roboto', sans-serif;
         color: #333;
-        font-size: 48px;
+        font-size: 56px;
         font-weight: 700;
         text-transform: uppercase;
     }
