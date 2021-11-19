@@ -4,7 +4,7 @@
         <div class="row border-bottom">
             <div class="col-sm-6 col-md-4">
                 <div class="widget dark">
-                    <img class="mt-5 mb-20"  src="{{ RvMedia::getImageUrl(theme_option('logo')) }}" alt="{{ theme_option('site_title') }}" >
+                    <img class="mt-5 mb-20"  src="http://icatgroup.vn/storage/logo/logo-white-icat.png" >
                     <p>Ngõ 11 Duy Tân, Phường Dịch Vọng Hậu, Quận Cầu Giấy, TP.Hà Nội</p>
                     <ul class="list-inline mt-5">
                         <li class="m-0 pl-10 pr-10"><i class="fa fa-phone text-theme-colored2 mr-5"></i> <a
