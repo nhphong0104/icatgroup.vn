@@ -10,7 +10,7 @@
         <div class="row">
             <div class="col-12 col-md-6">
                 <ul class="highlights">
-                    <li><i class="fa fa-check" aria-hidden="true"></i> <span>Đối tac giao dịch trực tuyến chính thức Chelsea FC</span></li>
+                    <li><i class="fa fa-check" aria-hidden="true"></i> <span>Đối tác giao dịch trực tuyến chính thức Chelsea FC</span></li>
                     <li><i class="fa fa-check" aria-hidden="true"></i> <span>Broker hơn 15 năm hoạt động trên thị trường</span></li>
                     <li><i class="fa fa-check" aria-hidden="true"></i> <span>Nhà cung cấp MT4 Forex đàu tiên của Úc</span></li>
                 </ul>
@@ -190,7 +190,7 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-8 col-12 col-md-offset-2 text-center">
-                   <h2>IC&T GROUP - ĐỐI TÁC CHIẾN LƯỢC SÀN GO MARKETS TẠI VIỆT NAM</h2>
+                   <h2>IC&T GROUP - ĐỐI TÁC CHIẾN LƯỢC SÀN <br>GO MARKETS TẠI VIỆT NAM</h2>
                     <!-- <div class="title">
                         Hãy bắt đầu với GO
                     </div> -->
