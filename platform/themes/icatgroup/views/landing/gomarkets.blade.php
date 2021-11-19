@@ -174,7 +174,7 @@
         <img class="desktop" width="100%" src="../themes/icatgroup/images/bg_sl4.png">
         <div class="container mobile">
             <div class="row">
-                <div class="col-xs-12">
+                <div class="col-xs-12 text-center">
                     <h2>Tại sao chọn GO Markets</h2>
                 </div>
                 <div class="col-xs-12">
