@@ -199,10 +199,10 @@
                         Hãy bắt đầu với GO
                     </div> -->
                     <div class="submit">
-                        <a class="btn btn-1" data-toggle="modal" data-target="#exampleModal">
+                        <a class="btn btn-1" href="https://bom.to/WF2euX">
                             Mở tài khoản thật
                         </a>
-                        <a class="btn btn-2" data-toggle="modal" data-target="#exampleModal">
+                        <a class="btn btn-2" href="https://bom.to/WF2euX">
                             Mở tài khoản ảo
                         </a>
                     </div>
