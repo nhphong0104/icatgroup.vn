@@ -56,7 +56,11 @@
                         <button type="submit" class="btn btn-primary">Đăng ký đối tác</button>
                     </div>
                     {!! Form::close() !!}
+
+                    <div class="hotline">Hotline: <a href="tel:0918558956">0918.558.956</a></div>
                 </div>
+
+
             </div>
             <div class="col-12 col-md-6">
                 <img src="../themes/icatgroup/images/chelsea.png" alt="">
@@ -408,6 +412,21 @@
     .taisao h2{
         color: #fff;
         padding-top: 30px;
+    }
+    .hotline{
+        color: #fff;
+        font-size: 16px;
+        font-style: italic;
+        text-align: center;
+    }
+    .hotline a{
+        color: red;
+        font-weight: 500;
+        font-size: 18px;
+        font-family: Roboto, sans-serifr;
+    }
+    .hotline a:hover{
+        text-decoration: underline;
     }
     @media (max-width: 768px){
         .highlights li{
