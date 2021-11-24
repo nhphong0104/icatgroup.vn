@@ -149,7 +149,7 @@
                                     <img class="hover" width="46" src="../themes/icatgroup/images/cashback.png">
                                 </div>
                                 <div class="box-text text-left">
-                                    <p class="p2">Phí hoa hồng 5$<br> <span>Cashback 1$-4$</span> cho đối tác</p>
+                                    <p class="p2">Phí hoa hồng 5$<br> <span>Cashback 1$-3$</span> cho đối tác</p>
                                 </div>
                             </div>
                         </div>
